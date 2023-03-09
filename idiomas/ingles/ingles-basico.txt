@@ -1,0 +1,522 @@
+-=-=-=-=-=-=-
+| Class ONE |
+-=-=-=-=-=-=-
+
+1.1 - História da língua inglesa
+
+	Tem raizes germânicas, devido a migração desses povos no século V d.C.
+	Os Anglo-saxões (tribos germânicas) conquistaram a grã-bretanha e o idioma se misturou com o existente.
+	Grande influência do Latim do Império Romano (século V a.C.).
+	Influência Celta (Bretões, povo original das Ilhas Britânicas).
+	Os países que atualmente têm o inglês como idioma oficial são:
+		
+		Europa:
+			Inglaterra
+			País de Gales
+			Escócia
+			Irlanda do Norte
+
+		América do Norte
+			E.U.A.
+			Canadá
+		
+		América Central
+			Anguila
+			Antígua e Barbuda
+			Bahamas
+			Barbados
+			Belize
+			Bermudas
+			Ilhas Caiman
+			República Dominicana
+			Granada
+			Jamaica
+			Porto Rico
+			Santa Lúcia
+			São Vicente e Granadinas
+			Trinidade e Tobago
+			Turcos e Caicos
+			Ilhas Virgens Britânicas
+			Ilhas Virgens
+			
+		América do Sul
+			Guiana
+			Ilhas Malvinas
+		
+		Ásia
+			Índia
+			Filipinas
+			Cingapura
+			
+		Oceania
+			Austrália
+			Ilhas Fiji
+			Ilhas Maurício
+			Nauru
+			Nova Zelândia
+			Papua-Nova Guiné
+			Ilhas Salomão
+			Samoa Ocidental
+		
+		África
+			Botsuana
+			Camarões
+			Gâmbia
+			Gana
+			Quênia
+			Lesoto
+			Libéria
+			Maurício
+			Namíbia
+			Nigéria
+			Ruanda
+			Seicheles
+			África do Sul
+			Suazilândia
+			Tanzânia
+			Uganda
+			Zambia
+			Zimbábue
+
+1.2 - Como estudar uma língua
+
+	Gramática (duolingo)
+	Vocabulário (memrise)
+	Pronúncia (duolingo e memrise)
+	Expressões, jargões e gírias (ler)
+
+1.3 - Hierarquia dos estudos de idiomas
+
+	Fonética (th, r, i, ee, oo)
+	Fonologia (Lead vs Lead)
+	Ortografia (bus, bus', buses)
+	Morfologia (eat/ate, did/do)
+	Sintaxe (funções)
+	Semântica (significados)
+	Pragmática (utilidades)
+
+1.4.1 - Dança da pronúncia
+
+	Achieve vs Archive
+	Read vs Head
+	Lead vs Lead vs Led
+	By vs Bi vs Buy vs Bye
+	Two vs Chew
+	Data vs Data
+	Dinner vs Diner
+	Desert vs Dessert
+	Wave vs Waive
+	Peak vs Peek
+	
+	Fair = fare
+	Find = fined
+	Flea = flee
+	Flew = flu
+	Flour = flower
+	For = four
+	Guessed = guest
+	Heal = heel
+	Hear = here
+	Hi = high
+	Higher = hire
+	Hour = our
+	Idle = idol
+	Knew = new
+	Knight = night
+	Know = no
+	Lean = lien
+	Made = maid
+	Mail = male
+	Meat = meet
+	Missed = mist
+	Pair = pear
+	Peace = piece
+	Plain = plane
+	Principal = principle
+	Read = red
+	Right = write
+	Cereal = serial
+	Cite = sight, site
+	Complement = compliment
+	Die = dye
+	Sale = sail
+	Scene = seen
+	Sea = see
+	Some = sum
+	son = sun
+	stair = stare
+	stake = steak
+	stationary = stationery
+	steal = steel
+	tale = tail
+	there = their, they're
+	threw = through
+	waist = waste
+	wait = weight
+	war = wore
+	wear = where
+	weak = week
+	weather = whether
+	
+	Yes, english is hard, weird and can be very difficult.
+	But it can be understood, though, through tough, thorough thought.
+
+1.4.2 - Estrangeirismos
+
+	Basquete from basketball
+	Bife from beef
+	Blecaute from blackout
+	Coquetel from cocktail
+	Caubói from cowboy
+	Detetive from detective
+	Drinque from drink
+	Futebol from football
+	Gol from goal
+	Pênalti from penalty
+	Nocaute from knockout
+	Estresse from stress
+	
+	Tecnologias
+	
+		Backup 
+		Chip
+		Download
+		Drive
+		Email/e-mail
+		Enter
+		Homepage/home page
+		Input
+		Internet
+		Mouse
+		Offline
+		Online
+		Outdoor
+		Output
+		Scanner 
+		Site
+		Software
+		Stereo
+		Tablet
+		Upgrade
+		Upload
+		Website
+		Wireless
+
+	Ofícios
+		
+		Feedback
+		Follow-up
+		Franchising
+		Freelance
+		Full-time
+		Holding
+		Know-how
+		Layout
+		Link
+		Lobby
+		Marketing
+		Meeting
+		Merchandising
+		Part-time 
+		Performance
+		Press release
+		Ranking
+		Royalty
+		Slogan
+		Social media
+		Timing
+
+	Comidas
+		
+		Bacon
+		Brunch
+		Cheeseburger
+		Cookie
+		Cupcake
+		Delivery
+		Diet
+		Fast-food
+		Freezer
+		Grill
+		Happy hour
+		Hot dog
+		Ketchup
+		Light
+		Milkshake/milk shake
+		Pub
+		Self-service
+		Snack bar
+		Sundae
+		Waffle
+		
+	Esportes
+		
+		Bike
+		Bodyboarding
+		Doping
+		Fitness
+		Jogging
+		Kart
+		Motocross
+		Mountain bike
+		Personal trainer
+		Skate 
+		Windsurf
+
+	Moda
+		
+		Baby doll
+		Black tie/black-tie
+		Blazer
+		Fashion
+		Jeans
+		Lycra
+		Shorts
+		Smoking
+		Stretch
+		Top model
+
+	Entretenimento
+	
+		Best-seller
+		Camping
+		Hit
+		Hobby
+		Jazz
+		Jingle 
+		Medley
+		Play
+		Script
+		Show
+		Spoiler
+		Stop
+		Thriller
+		Trailer
+		Videogame/video game
+		Rap
+		Remix
+		Rock
+
+	Outras
+		
+		Airbag
+		Babysitter
+		Band-aid
+		Botox
+		Bullying
+		Cameraman
+		Check-in 
+		Check-out
+		Check-up
+		Design
+		Display
+		Drive-thru
+		Flash
+		Flat
+		Freezer
+		Kit
+		Laser
+		Overdose
+		Shopping center
+		Slogan
+		Spray
+		Walkie-talkie
+		Workshop
+	
+1.4.3 - Dança da conjugação
+
+	Verb to be
+	
+		I.......am
+		
+		You.....are
+		
+		He......is
+		She.....is
+		It......is
+		
+		We......are
+		
+		You.....are
+		
+		They....are
+
+	Verb to do
+
+		I.......do
+		
+		You.....do
+		
+		He......does
+		She.....does
+		It......does
+		
+		We......do
+		
+		You.....do
+		
+		They....do
+		
+	Verb will
+		
+		I.......will
+		
+		You.....will
+		
+		He......will
+		She.....will
+		It......WiLL
+		
+		We......will
+		
+		You.....will
+		
+		They....will
+
+
+
+
+1.5 - As classes de palavras
+
+	Verbos (verbs)
+	Substantivos (nouns)
+	Adjetivos (adjectives)
+	Pronomes (pronouns)
+	Advérbios (adverbs)
+	Artigos (articles)
+	Preposições (prepositions)
+	Conjunções (conjunctions)
+	Numerais (numerals)
+	Interjeição (interjections)
+	Determinantes N/A (Determiners)
+
+1.6 - Fixos (pre, in, suf)
+
+1.7 - Contrações
+
+1.8 - Vocabulário aula 1
+
+	Pronomes pessoais:
+		
+		I
+		You
+		He/She/It
+		We
+		You
+		They
+
+	Verbos:
+	
+		to be
+		to have
+		to do
+		to go
+		to say
+		to think
+		to get
+		to let
+		to know
+		to see
+		to make
+		to want
+		to take
+		to come
+		to look
+		to find
+
+1.9 - Common Nouns
+
+	A noun is a word used to identify any of a class of people, places, or things (common noun),
+	or to name a particular one of these (proper noun).
+
+		-You can buy _coffee_ at _Starbucks_.
+		
+
+	A common noun is a noun denoting a class of objects or a concept as opposed to a particular individual.
+
+		-There was a _sofa_, two _chairs_, and a _wardrobe_ in the _room_.
+		
+		
+	Note that common nouns are ​general names. Thus, they are not capitalized unless they begin a sentence or are part of a title.
+
+		-_Capitals_ of the countries are usually very large cities. London is the _capital_ of Great Britain.
+		
+		
+	Most of the time, we add ​-s to singular nouns to indicate plurality.
+
+		flower - flowers
+		dog - dogs
+
+	If the singular noun ends in ​-s, -ss, -sh, -ch, -x, -z, -o, add ​-es to make it plural.
+
+		bus - buses
+		watch - watches
+		box - boxes
+		potato - potatoes
+
+	If the singular noun ends in ​-y, change ​-y into ​-i and add ​-es to make it plural.
+
+		baby - babies
+
+	If the singular noun ends in ​-f or ​-fe, ​-f is often changed into ​-ve before adding ​-s to make it plural.
+
+		life - lives
+		wolf - wolves
+		belief - beliefs
+		chef - chefs
+		
+	Some nouns do not follow any of the rules explained earlier. They are irregular. Here are the most common irregular nouns.
+
+		man - men
+		woman - women
+		person - people
+		child - children
+		tooth - teeth
+		foot - feet
+		mouse - mice
+
+1.10 - Short Story Dialogue
+
+	- I’m going grocery	shopping in a bit. Could I get you anything?
+	- I think we’re running out of milk. You should buy that. And I don’t mind some	cookies or candies.
+	- OK, I’ll put it on my	list. Anything else?
+	- You can look up in the fridge	and just buy whatever you feel like we need. Oh, and don’t forget to grab the newspaper	on your way back home. I’d really appreciate that!
+	- Roger! (=OK!/Understood!)
+
+1.11 - Exercises
+
+	Independent Practice - Common nouns
+		1 Transform the following singular nouns into plurals.
+			a. light – ______
+			b. man – ______
+			c. life – ______
+			d. lady – ______
+			e. tax – ______
+		
+		2 Find mistakes in the following sentences.
+			a. Don’t forget to take your Jacket! It’s really cold outside today.
+			b. Your foot are really cold! You are freezing!
+			c. Elizabeth is a Doctor in a local hospital.
+			d. I like high waisted jeanses a lot. I feel really stylish wearing them.
+			e. There are many thiefes in this area. Be careful!
+
+	Independent Practice: Answers - Common nouns
+		1 Transform the following singular nouns into plurals.
+			a. light – lights
+			b. man – men
+			c. life – lives
+			d. lady – ladies
+			e. tax – taxes
+
+		2 Find mistakes in the following sentences.
+			a. Don’t forget to take your ​Jacket​ jacket​! It’s really cold outside today.
+			b. Your ​foot​ ​feet​ are really cold! You are freezing!
+			c. Elizabeth is a ​Doctor​ ​doctor​ in a local hospital.
+			d. I like high waisted ​jeanses​ ​jeans​ a lot. I feel really stylish wearing them.
+			e. There are many ​thiefes​ ​thieves​ in this area. Be careful!
+
+
+
+-=-=-=-=-=-=-
+| Class TWO |
+-=-=-=-=-=-=-
